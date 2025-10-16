@@ -12,8 +12,8 @@
 
 - 👂 `My name is`: **DIO**,
 - 💁🏼‍♂️ `Pronouns`: **He/His**,
-- ⚡ `I'm`: **21 years old**,
-- 🌱 `I’m currently learning`: **Flutter**,
+- ⚡ `I'm`: **22 years old**,
+- 🌱 `I’m currently learning`: **Electron**,
 - ❤️ `I love`: **Caramel macchiato** ,
 - 💻 `Favorite lang`: **Node & TypeScript**
 
