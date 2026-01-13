@@ -14,7 +14,7 @@
 - 💁🏼‍♂️ `Pronouns`: **He/His**,
 - ⚡ `I'm`: **22 years old**,
 - 🌱 `I’m currently learning`: **Electron**,
-- ❤️ `I love`: **Caramel macchiato** ,
+- ❤️ `I love`: **Latte macchiato** ,
 - 💻 `Favorite lang`: **Node & TypeScript**
 
 }
