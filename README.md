@@ -12,7 +12,7 @@
 
 - 👂 `My name is`: **DIO**,
 - 💁🏼‍♂️ `Pronouns`: **He/His**,
-- ⚡ `I'm`: **22 years old**,
+- ⚡ `I'm`: **23 years old**,
 - 🌱 `I’m currently learning`: **Electron**,
 - ❤️ `I love`: **Latte macchiato** ,
 - 💻 `Favorite lang`: **Node & TypeScript**
